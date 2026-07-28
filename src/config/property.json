@@ -1,0 +1,359 @@
+{
+  "version": "1.2",
+  "disabled": false,
+  "title": "TRILOCALE RISTRUTTURATO IN PIENO CENTRO CON BOX",
+  "address": "Via Cavour, 37 / Centro Tradate",
+  "agencyName": "DomusTua Immobiliare",
+  "agencyPhone": "+39 0331 844898",
+  "agencyEmail": "info@domustua.com",
+  "navigation": [
+    {
+      "title": "Benvenuto",
+      "href": "/",
+      "enabled": true
+    },
+    {
+      "title": "Introduzione",
+      "href": "/introduzione",
+      "enabled": true
+    },
+    {
+      "title": "Come raggiungere – dal Centro di Abbiate",
+      "href": "/come-raggiungerci-1",
+      "enabled": true
+    },
+    {
+      "title": "Come raggiungere – da via Crocifisso",
+      "href": "/come-raggiungerci-2",
+      "enabled": true
+    },
+    {
+      "title": "Cos'è e come funziona l'Open Domus",
+      "href": "/open-domus",
+      "enabled": true
+    },
+    {
+      "title": "Caratteristiche principali",
+      "href": "/caratteristiche-principali",
+      "enabled": true
+    },
+    {
+      "title": "Planimetrie",
+      "href": "/planimetrie",
+      "enabled": true
+    },
+    {
+      "title": "Documenti catastali",
+      "href": "/documenti-catastali",
+      "enabled": true
+    },
+    {
+      "title": "APE",
+      "href": "/ape",
+      "enabled": true
+    },
+    {
+      "title": "Bollette e impianti",
+      "href": "/bollette-e-impianti",
+      "enabled": true
+    },
+    {
+      "title": "Relazione tecnica",
+      "href": "/relazione-tecnica",
+      "enabled": true
+    },
+    {
+      "title": "Documenti condominiali",
+      "href": "/documenti-condominiali",
+      "enabled": true
+    },
+    {
+      "title": "Bozza proposta",
+      "href": "/bozza-proposta",
+      "enabled": true
+    },
+    {
+      "title": "Prospetto costi",
+      "href": "/prospetto-costi",
+      "enabled": true
+    },
+    {
+      "title": "Matterport",
+      "href": "/matterport",
+      "enabled": true
+    },
+    {
+      "title": "Video Social",
+      "href": "/video-social",
+      "enabled": true
+    },
+    {
+      "title": "Per te, VENDITORE",
+      "href": "/per-te-venditore",
+      "enabled": true
+    }
+  ],
+  "introduzione": {
+    "enabled": true,
+    "heading": "Benvenuti in Domus Tua",
+    "greeting": "Gentile cliente,",
+    "paragraph1": "La presente brochure digitale è stata pensata per offrirLe una panoramica completa e dettagliata dell'immobile di Suo interesse, con l'obiettivo di fornirLe tutte le informazioni necessarie per valutare con chiarezza ogni aspetto dell'immobile.",
+    "sectionsLabel": "All'interno troverà sezioni dedicate a:",
+    "sections": [
+      "CARATTERISTICHE PRINCIPALI DELL'IMMOBILE",
+      "PLANIMETRIE",
+      "DATI CATASTALI",
+      "ATTESTATO DI PRESTAZIONE ENERGETICA (APE)",
+      "RELAZIONE TECNICA",
+      "DICHIARAZIONI IMPIANTI",
+      "DOCUMENTI CONDOMINIO",
+      "BOZZA PROPOSTA DI ACQUISTO",
+      "PROSPETTO COSTI",
+      "VIDEO SOCIAL"
+    ],
+    "paragraph2": "Con Domus Tua, avere tutte le informazioni a portata di mano significa poter valutare l'immobile con serenità e trasparenza, senza dover attendere ulteriori documenti o chiarimenti."
+  },
+  "dalCentroTradate": {
+    "enabled": true,
+    "heading": "Come raggiungere l'immobile se arrivate dal centro di Tradate",
+    "leftText": "Potete parcheggiare l'auto in Via XXV Aprile o in Via de Simoni, dove sono presenti diversi parcheggi gratuiti.",
+    "rightText": "L'ingresso all'abitazione è accanto alla gelateria Buosi, come indicato dalla freccia.",
+    "footer": "Troverete una collaboratrice ad aspettarvi per condurvi all'abitazione",
+    "images": [
+      "/images/come-raggiungerci-1-image1.png",
+      "/images/come-raggiungerci-1-image2.jpg"
+    ]
+  },
+  "daViaCrocifisso": {
+    "enabled": true,
+    "heading": "Come raggiungere l'immobile da via Crocifisso",
+    "leftText": "Percorrendo via Crocifisso, svoltate in via Cavour. L'edificio è facilmente riconoscibile.",
+    "rightText": "Sono disponibili parcheggi nelle vie adiacenti. Seguite le indicazioni presenti sul posto.",
+    "footer": "Troverete una collaboratrice ad aspettarvi per condurvi all'abitazione",
+    "images": [
+      "/images/come-raggiungerci-2-image1.png",
+      "/images/come-raggiungerci-2-image2.png"
+    ]
+  },
+  "openDomus": {
+    "enabled": true,
+    "heading": "COS'È E COME FUNZIONA L'OPEN DOMUS",
+    "images": []
+  },
+  "caratteristichePrincipali": {
+    "enabled": true,
+    "sectionNumber": "",
+    "sectionTitle": "CARATTERISTICHE PRINCIPALI",
+    "features": [
+      {
+        "label": "Tipologia",
+        "text": "trilocale disposto su un unico livello, situato al secondo piano di una palazzina di 4 piani fuori terra dotata di ascensore."
+      },
+      {
+        "label": "Appartamento",
+        "text": "superficie coperta di 95.5 m²."
+      },
+      {
+        "label": "Area Esterna",
+        "text": "terrazzo (o balcone) di 7.2 m²."
+      },
+      {
+        "label": "Autorimessa",
+        "text": "Include un box auto singolo di 19 m² situato al piano interrato."
+      },
+      {
+        "text": "L'edificio, con struttura in cemento armato, è stato costruito nel 1993, mentre l'appartamento ha subito una ristrutturazione nel 2021 💧",
+        "label": "Stato dell'Immobile"
+      },
+      {
+        "text": "È composto da tre locali con una cucina abitabile. Le pavimentazioni sono in gres porcellanato nel bagno e parquet in massello nel resto dell'abitazione",
+        "label": "Interni"
+      },
+      {
+        "text": "La vendita comprende l'arredamento della cucina e del bagno",
+        "label": "Arredi inclusi"
+      },
+      {
+        "text": "Il riscaldamento è autonomo, caldaia a condensazione con radiatori in ghisa, porta blindata, infissi sono in PVC con vetri tripli e persiane in legno.",
+        "label": "Impianti e infissi"
+      },
+      {
+        "text": "Videocitofono, zanzariere, tende da sole manuali e una rete per computer cablata.",
+        "label": "Altre dotazioni"
+      }
+    ],
+    "condominioTitle": "Informazioni Condominiali",
+    "condominioItems": [
+      "Struttura scala: 3 appartamenti per pianerottolo per un totale di 10 appartamenti nella scala."
+    ],
+    "images": []
+  },
+  "planimetrie": {
+    "enabled": true,
+    "sectionNumber": "",
+    "sectionTitle": "PLANIMETRIE QUOTATE:",
+    "items": [
+      "Appartamento",
+      "Box"
+    ],
+    "images": [
+      "/images/planimetrie-image1.jpg"
+    ]
+  },
+  "documentiCatastali": {
+    "enabled": true,
+    "sectionNumber": "",
+    "sectionTitle": "CATASTO",
+    "items": [
+      "Schede catastali",
+      "Visure catastali"
+    ],
+    "images": [
+      "/images/catasto-image1.png",
+      "/images/catasto-image2.png",
+      "/images/catasto-image3.png"
+    ]
+  },
+  "ape": {
+    "enabled": true,
+    "sectionNumber": "",
+    "sectionTitle": "APE - ATTESTATO DI PRESTAZIONE ENERGETICA",
+    "items": [
+      "Certificato energetico"
+    ],
+    "caption": "Attestato di Prestazione Energetica – Via Cavour 37, Tradate",
+    "images": [
+      "/images/APE-image1.png"
+    ]
+  },
+  "bolletteImpianti": {
+    "enabled": true,
+    "sectionNumber": "",
+    "sectionTitle": "BOLLETTE E IMPIANTI",
+    "items": [
+      "Bolletta gas – riscaldamento autonomo",
+      "Bolletta energia elettrica",
+      "Dichiarazione di conformità impianto elettrico",
+      "Dichiarazione di conformità impianto idraulico",
+      "Dichiarazione di conformità impianto termico",
+      "Libretto caldaia a condensazione"
+    ],
+    "images": [
+      "/images/bollette-image1.png",
+      "/images/bollette-image2.png",
+      "/images/bollette-image3.png",
+      "/images/bollette-image4.png",
+      "/images/bollette-image5.png",
+      "/images/bollette-image6.png",
+      "/images/bollette-image7.png"
+    ]
+  },
+  "relazioneTecnica": {
+    "enabled": true,
+    "sectionNumber": "",
+    "sectionTitle": "RELAZIONE TECNICA",
+    "items": [
+      {
+        "label": "Relazione tecnica descrittiva dell'immobile",
+        "enabled": true,
+        "documentUrl": null
+      },
+      {
+        "label": "Stato di conservazione delle strutture",
+        "enabled": true,
+        "documentUrl": null
+      },
+      {
+        "label": "Descrizione interventi di ristrutturazione 2021",
+        "enabled": true,
+        "documentUrl": null
+      }
+    ]
+  },
+  "documentiCondominiali": {
+    "enabled": true,
+    "sectionNumber": "",
+    "sectionTitle": "DOCUMENTI CONDOMINIALI",
+    "items": [
+      {
+        "label": "Regolamento condominiale",
+        "enabled": true,
+        "documentUrl": "/images/doc-condominio-0-1784830614760.pdf"
+      },
+      {
+        "label": "Verbale ultima assemblea condominiale",
+        "enabled": true,
+        "documentUrl": "/images/doc-condominio-1-1784830734734.doc"
+      },
+      {
+        "label": "Piano di riparto spese condominiali",
+        "enabled": true,
+        "documentUrl": "/images/doc-condominio-2-1784830801416.pdf"
+      },
+      {
+        "label": "Attestazione assenza morosità condominiale",
+        "enabled": false,
+        "documentUrl": null
+      }
+    ]
+  },
+  "bozzaProposta": {
+    "enabled": true,
+    "sectionNumber": "",
+    "sectionTitle": "BOZZA PROPOSTA DI ACQUISTO",
+    "items": [
+      "Bozza proposta di acquisto compilabile",
+      "Modalità di presentazione offerta",
+      "Tempistiche e procedura"
+    ],
+    "images": [
+      "/images/bozza-proposta-image1.jpg",
+      "/images/bozza-proposta-image2.jpg",
+      "/images/bozza-proposta-image3.jpg",
+      "/images/bozza-proposta-image4.jpg",
+      "/images/bozza-proposta-image5.jpg"
+    ]
+  },
+  "prospettoCosti": {
+    "enabled": true,
+    "sectionNumber": "",
+    "sectionTitle": "PROSPETTO COSTI",
+    "items": [
+      "Prezzo di vendita dell'immobile",
+      "Provvigione agenzia immobiliare",
+      "Costi notarili stimati",
+      "Imposte e tasse sull'acquisto",
+      "Riepilogo totale costi acquisto"
+    ],
+    "images": [
+      "/images/prospetto-costi-image1.png"
+    ]
+  },
+  "matterport": {
+    "enabled": true,
+    "heading": "GUARDA IL MATTERPORT!",
+    "subtitle": "Entra dentro all'appartamento attraverso una visita virtuale in 3D",
+    "propertyName": "37 Via Camillo Benso di Cavour",
+    "propertyLocation": "Tradate, Varese",
+    "url": "https://INSERISCI-QUI-IL-LINK-MATTERPORT"
+  },
+  "videoSocial": {
+    "enabled": true,
+    "heading": "GUARDA IL VIDEO DELL'IMMOBILE SU INSTAGRAM",
+    "subtitle": "Segui Domus Tua Immobiliare su Instagram per non perdere nessun immobile",
+    "instagramHandle": "@domustua.immobiliare",
+    "url": "https://www.instagram.com/reel/DafyvAmuoAm/?hl=it",
+    "thumbnail": "/images/video-social-thumbnail-1784883660809.png"
+  },
+  "perTeVenditore": {
+    "enabled": true,
+    "heading": "PER TE VENDITORE...",
+    "tagline": "Segnalacelo, un eccellente bonus ti aspetta.",
+    "ctaHighlight": "ORA",
+    "agencyFullName": "Domus Tua Srl",
+    "agencyAddress": "C.so Bernacchi, 91 - Tradate (VA)",
+    "agencyCell": "346 604 2314",
+    "reviewsLabel": "Clicca qui e LEGGI tutte LE NOSTRE RECENSIONI",
+    "reviewsScore": "4.9"
+  }
+}
